@@ -13,4 +13,5 @@ Currently Learning
 - Innovation
   
  Goals
+ 
 To improve my development skills and build useful projects that solve real-world problems.
